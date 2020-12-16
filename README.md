@@ -1,3 +1,3 @@
 # DjangoBlogProject
 blog with admin panel
-Django Development
+Django Development For pro
